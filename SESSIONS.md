@@ -8,4 +8,10 @@ The agent did not ask any question and gave me a full ssh config file with no ro
 
 Honestly, some of these rules I did know, but there was a couple I really didn't know and gave me a realization that I should maybe even use the ai to create me ssh configs for all of my machines.
 
+### Session 2 April 28, 2026
 
+I had hermes ingest my Homepage config and create me a new one.
+
+I learned about acl's for giving the agent read permissions to my config files. 
+
+I had it "revamp" the file, but the time spent I felt like the final result was not worth the effort put into configuring and using the agent.
